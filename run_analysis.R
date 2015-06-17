@@ -9,7 +9,7 @@
 ## Preparation
 
 # Set working dir and load libs
-setwd("~/git/datasciencecoursera/getdata_project/UCI HAR Dataset")
+setwd("~/git/coursera_getdata_project/UCI HAR Dataset")
 library(dplyr)
 
 
