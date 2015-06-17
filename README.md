@@ -1,17 +1,5 @@
 # Coursera course Getting and Cleaning Data - Course project
 
-## Repository contents 
-
-This repository contains the following files:
-
- * ```README.md``` (this file): Describing contents of repository and processing steps of script
-
- * ```run_analysis.R```: R script that converts input dataset into a tidy dataset with relevant data. See Processing steps ```run_analysis.R``` section below
-
- * ```codebook.txt```: Code book describing contents of output dataset ```averages.txt```
-
- * ```averages.txt```: Output dataset
-
 
 ## Processing steps ```run_analysis.R```
 
